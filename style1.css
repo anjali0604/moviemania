@@ -1,0 +1,28 @@
+#header{
+	background-color: #ECF0F1 ;
+	text-align:center;
+}
+.d1{
+	background-color: purple;
+	color:white;
+	float:right;
+	border-radius:5px;
+	width: 50px;
+	text-align: center;
+}
+#moviename{
+	background-color:white;
+}
+
+.main{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-right: 150px;
+	margin-left: 150px;
+	background-color: white;
+}
+#head{
+	text-align: center;
+	background-color: white;
+}
+	
